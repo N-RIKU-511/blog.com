@@ -1,5 +1,5 @@
 baseurl = "https://blog.com/"
-title = "Creative portfolio"
+title = "blog.com"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ja"
 # Enable comments by entering your Disqus shortname
